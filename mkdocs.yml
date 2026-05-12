@@ -1,0 +1,73 @@
+site_name: Akate
+site_description: Tu centro de recursos académicos alineado con el currículo del liceo.
+site_url: https://docs.akate.muxp.art
+
+nav:
+  - Inicio: index.md
+  - Física:
+    - MRU: fisica/MRU - Movimiento Rectilíneo Uniforme.md
+    - MRUA: fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado.md
+
+theme:
+  name: shadcn
+  katex_options: {}
+
+plugins:
+  - search
+
+extra_css:
+  - assets/copy-to-llm/copy-to-llm.css
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+  - assets/copy-to-llm/copy-to-llm.js
+
+markdown_extensions:
+  # Math
+  - pymdownx.arithmatex:
+      generic: true
+
+  # Typography y texto
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.tilde
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+
+  # Bloques y código
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.tabbed:
+      alternate_style: true
+
+  # Listas y checkboxes
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  # Links y emojis
+  - pymdownx.magiclink
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+
+  # Extras de Markdown estándar
+  - footnotes
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      title: En esta página
