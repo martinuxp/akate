@@ -32,5 +32,6 @@ Para sacar el máximo provecho de lo que te explicare, te recomiendo usar mi **P
 > [!NOTA]
 > Akate esta en construcción, así que mucho por ahora no hay. 🥹
 
+
 > Dedicatoria.
-> Por Muxp para Andy
+> Por Muxp para Andy.

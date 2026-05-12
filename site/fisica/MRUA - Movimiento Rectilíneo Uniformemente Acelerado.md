@@ -25,7 +25,7 @@ Para calcular la aceleración, restamos la velocidad final por la inicial y las 
 
 $$a = \frac{v_f - v_i}{t}$$
 
-> [!Dato Akate]
+> [!Dato]
 >
 > > 
 > > 1. Si el resultado es **positivo**, el objeto está acelerando (va más rápido).
@@ -126,14 +126,13 @@ $$a = \frac{20 - 0}{10} = 2 \text{ m/s}^2$$
 
 ---
 
-## 🖥️ Akate _"MRUA - Aceleración"_ Prompt
+## 🖥️ _"MRUA - Aceleración"_ Prompt
 
 Copia este prompt especializado:
 
-Plaintext
 
 ```
-Actúa como un Asistente de Estudio de "Akate". Mi objetivo hoy es aprender exclusivamente a calcular la ACELERACIÓN en el MRUA.
+Actúa como un Asistente de Estudio. Mi objetivo hoy es aprender exclusivamente a calcular la ACELERACIÓN en el MRUA.
 
 ### 📋 Reglas:
 1. **Fórmula Única:** Céntrate solo en a = (vf - vi) / t. No uses fórmulas de distancia por ahora.

@@ -72,11 +72,6 @@ Imagínalo como una simplificación de fracciones en matemática.
 > **Explicación rápida:** Si tienes 3 manzanas por caja y compras 2 cajas, las "cajas" se cancelan y te quedan solo "manzanas". Aquí es igual: la rapidez nos dice cuántos metros recorres en cada segundo, y al multiplicarlo por el tiempo total, obtenemos la distancia total.
 
 ---
-¡Perfecto! Estos ejemplos cubren justamente los "tropiezos" más comunes en las pruebas del liceo, especialmente las conversiones de unidades.
-
-Aquí tienes los 4 ejemplos adicionales listos para agregar a tu archivo de **Akate**:
-
----
 
 ## 🕒 Ejemplo 2: Calculando el Tiempo
 
@@ -128,7 +123,7 @@ $$v = 50 \text{ m/s}$$
 
 **Problema:** Un bus viaja por la carretera a **90 km/h**. ¿Cuál es su velocidad expresada en **m/s**?
 
-### 💡 Hack de Akate: El "Número Mágico"
+### 💡 Hack del "Número Mágico"
 
 Para pasar de **km/h a m/s** de forma rápida, solo tienes que **dividir por 3,6**. (Si quieres pasar de m/s a km/h, multiplicas por 3,6).
 
@@ -170,7 +165,7 @@ $$d = 30.000 \text{ m}$$
 
 ---
 
-## 📝 Resumen de Conversiones para el bolsillo:
+## 📝 Resumen de Conversiones:
 
 - **1 hora** = $3600 \text{ segundos}$
 
@@ -180,16 +175,16 @@ $$d = 30.000 \text{ m}$$
 
 - **m/s $\rightarrow$ km/h**: Multiplica por $3,6$
 
-## 🖥️ Akate *"MRU"* Prompt
+## 🖥️ *"MRU"* Prompt
 Copia y envia en el mensaje inicial el siguiente prompt en tu AI de preferencia para un estudio personalizado sobre el MRU:
 ```
-Actúa como un Asistente de Estudio de la plataforma "Akate". Tu objetivo es ayudarme a comprender el Movimiento Rectilíneo Uniforme (MRU) siguiendo estrictamente la metodología de "Inteligencia Humana guiada por IA".
+Actúa como un Asistente de Estudio. Tu objetivo es ayudarme a comprender el Movimiento Rectilíneo Uniforme (MRU).
 
 ### 📋 Tus Reglas de Comportamiento:
-1. **Identidad:** Preséntate como el tutor de Akate. Salúdame y pregúntame si prefieres un tono formal o uno más relajado "entre compañeros".
-2. **Explicación Base:** Usa el concepto de "Caminar en línea recta a velocidad fija". Si necesito fórmulas, enséñame el método del "Triángulo de Akate" (tapar con el dedo la variable buscada).
+1. **Identidad:** Preséntate. Salúdame y pregúntame si prefieres un tono formal o uno más relajado "entre compañeros".
+2. **Explicación Base:** Usa el concepto de "Caminar en línea recta a velocidad fija". Si necesito fórmulas, enséñame el método del "Triángulo" (tapar con el dedo la variable buscada).
 3. **Corrección Directa:** Si cometo un error en un cálculo o en una conversión de unidades (ej. no pasar minutos a segundos), corrígeme de inmediato y explícame por qué el procedimiento falló.
-4. **Hacks de Akate:** Utiliza siempre el "Número Mágico 3,6" para conversiones entre km/h y m/s. Usa la analogía de las "cajas de manzanas" para explicar la cancelación de unidades.
+4. **Hacks o trucos:** Utiliza siempre el "Número Mágico 3,6" para conversiones entre km/h y m/s. Usa la analogía de las "cajas de manzanas" para explicar la cancelación de unidades.
 
 ### 🛠️ Flujo de Trabajo:
 1. **Diagnóstico:** Antes de empezar, hazme 2 preguntas rápidas sobre conceptos básicos de MRU para medir mi nivel.

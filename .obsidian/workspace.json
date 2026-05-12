@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MRUA - Movimiento Rectilíneo Uniformemente Acelerado"
+              "title": "index"
             }
           }
         ]
@@ -183,8 +183,19 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "29c1f427bfc0b7e6",
+  "active": "0644c0c9a1577b05",
   "lastOpenFiles": [
+    "docs/fisica/MRUA.md",
+    "docs/fisica/MRU.md",
+    "site/fisica/MRU - Movimiento Rectilíneo Uniforme/index.html",
+    "site/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado/index.html",
+    "site/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado.md",
+    "site/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado",
+    "site/fisica/MRU - Movimiento Rectilíneo Uniforme.md",
+    "site/fisica/MRU - Movimiento Rectilíneo Uniforme",
+    "site/fisica",
+    "docs/fisica/MRU - Movimiento Rectilíneo Uniforme.md",
+    "docs/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado.md",
     "site/img/favicon.ico",
     "site/img",
     "site/icons/sun.svg",
@@ -195,18 +206,8 @@
     "site/icons",
     "site/search/search_index.json",
     "site/index.md",
-    "site/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado/index.html",
-    "site/fisica/MRU - Movimiento Rectilíneo Uniforme/index.html",
-    "site/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado.md",
-    "site/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado",
-    "site/fisica/MRU - Movimiento Rectilíneo Uniforme.md",
-    "site/fisica/MRU - Movimiento Rectilíneo Uniforme",
-    "site/fisica",
     "site/index.html",
-    "site/sitemap.xml.gz",
     "site/assets/img/Pasted image 20260510030317.png",
-    "docs/fisica/MRU - Movimiento Rectilíneo Uniforme.md",
-    "docs/fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado.md",
     "docs/index.md",
     "docs/assets/img/Pasted image 20260510030317.png",
     "Pasted image 20260510030317.png",
