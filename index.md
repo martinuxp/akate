@@ -21,7 +21,3 @@ No es solo un repositorio de textos; es *mi* **metodología de estudio** que inc
 
 > [!NOTA]
 > Akate esta en construcción, así que mucho por ahora no hay. 🥹
-
-
-> Dedicatoria.
-> Por Muxp para Andy.
