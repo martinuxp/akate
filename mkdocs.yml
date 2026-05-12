@@ -1,12 +1,12 @@
 site_name: Akate
 site_description: Tu centro de recursos académicos alineado con el currículo del liceo.
-site_url: https://docs.akate.muxp.art
+site_url: https://akate.muxp.art
 
 nav:
   - Inicio: index.md
   - Física:
-    - MRU: fisica/MRU - Movimiento Rectilíneo Uniforme.md
-    - MRUA: fisica/MRUA - Movimiento Rectilíneo Uniformemente Acelerado.md
+    - MRU: fisica/MRU.md
+    - MRUA: fisica/MRUA.md
 
 theme:
   name: shadcn
