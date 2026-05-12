@@ -1,6 +1,11 @@
 site_name: Akate
 site_description: Tu centro de recursos académicos alineado con el currículo del liceo.
 site_url: https://akate.muxp.art
+use_directory_urls: true
+
+hooks:
+  - hooks/fix_paths.py
+
 
 nav:
   - Inicio: index.md

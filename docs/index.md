@@ -14,16 +14,6 @@ No es solo un repositorio de textos; es *mi* **metodología de estudio** que inc
 
 ---
 
-## 📀 El Prompt Base (PRONTO 🥹)
-Para sacar el máximo provecho de lo que te explicare, te recomiendo usar mi **Prompt Base**. Copia la instrucción en la pagina de "Prompt Base" en el menú lateral y pégala en tu IA favorita. También te recomiendo usar una de estas IAs:
-
-| LLM               | Fortaleza principal                     | Recomendado para...                          |
-| :---------------- | :-------------------------------------- | :------------------------------------------- |
-| **Google Gemini** | Rapidez y análisis de archivos/fotos.   | Aprendizaje interactivo y visual.            |
-| **Perplexity**    | Verificación de fuentes en tiempo real. | Materias con datos históricos o científicos. |
-
----
-
 ## 🚀 Comienza ahora
 1. Selecciona una **Materia** en el menú lateral.
 2. Revisa el contenido del tema que estás viendo en clases.
@@ -31,7 +21,3 @@ Para sacar el máximo provecho de lo que te explicare, te recomiendo usar mi **P
 
 > [!NOTA]
 > Akate esta en construcción, así que mucho por ahora no hay. 🥹
-
-
-> Dedicatoria.
-> Por Muxp para Andy.
