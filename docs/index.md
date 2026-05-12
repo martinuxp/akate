@@ -5,15 +5,6 @@
 
 ---
 
-## ❔ ¿Qué hace especial a Akate?
-No es solo un repositorio de textos; es *mi* **metodología de estudio** que incluye:
-
-*   **📘 Explicaciones Step-by-Step:** ¿No entiendes los párrafos llenos de palabras rebuscadas y complicadas que no te explican nada? Aquí te lo explicare pasito a pasito.
-*   **✍️ Material descargable:** Resúmenes listos para impresión o toma de apuntes analógica.
-*   **🤖 Akate Prompt:** Instrucciones diseñadas para que la IA sea tu tutor, no tu reemplazo.
-
----
-
 ## 🚀 Comienza ahora
 1. Selecciona una **Materia** en el menú lateral.
 2. Revisa el contenido del tema que estás viendo en clases.

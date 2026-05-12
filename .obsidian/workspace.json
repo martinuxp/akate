@@ -185,6 +185,7 @@
   },
   "active": "0644c0c9a1577b05",
   "lastOpenFiles": [
+    "site/CNAME",
     "docs/CNAME",
     "hooks/__pycache__/fix_paths.cpython-314.pyc",
     "hooks/__pycache__",
@@ -194,7 +195,6 @@
     "site/fisica/MRUA",
     "site/fisica/MRU/index.html",
     "site/fisica/MRU",
-    "site/CNAME",
     "site/css/pygments/zenburn.css",
     "site/assets/img/Pasted image 20260510030317.png",
     "site/index.md",
